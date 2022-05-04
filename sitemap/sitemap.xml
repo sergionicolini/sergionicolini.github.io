@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <sitemap>
+  <loc>https://sergionicolini.cf/</loc>
+  <lastmod>2022-04-05T19:45:37+00:00</lastmod>
+  <priority>1.00</priority>
+  </sitemap>
+  <sitemap>
+  <loc>https://sergionicolini.cf/blog.html</loc>
+  <lastmod>2022-04-05T19:45:37+00:00</lastmod>
+  <priority>0.80</priority>
+  </sitemap>
+  <sitemap>
+  <loc>https://sergionicolini.cf/index.html</loc>
+  <lastmod>2022-04-05T19:45:37+00:00</lastmod>
+  <priority>0.64</priority>
+  </sitemap>
+  <sitemap>
+  <loc>https://sergionicolini.cf/blog-posts/how-to-create-a-website.html</loc>
+  <lastmod>2022-04-05T19:45:37+00:00</lastmod>
+  <priority>0.64</priority>
+  </sitemap>
+    <sitemap>
+  <loc>https://sergionicolini.cf/blog-posts/how-to-buy-crypto-as-minor.html</loc>
+  <lastmod>2022-04-05T19:45:37+00:00</lastmod>
+  <priority>0.64</priority>
+  </sitemap>
+</sitemapindex>
